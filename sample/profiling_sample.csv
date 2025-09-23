@@ -1,0 +1,9 @@
+| Profiling\_Date | Table\_Name  | Column\_Name | Column\_Value | Count  | Count\_Pct | Sum\_Amount | Amount\_Pct |
+| --------------- | ------------ | ------------ | ------------- | ------ | ---------- | ----------- | ----------- |
+| 2025-09-11      | Transactions | CurrencyCode | USD           | 85,000 | 85.0%      | 446,250,000 | 85.0%       |
+| 2025-09-11      | Transactions | CurrencyCode | INR           | 15,000 | 15.0%      | 78,750,000  | 15.0%       |
+| 2025-09-11      | Transactions | Merchant     | Amazon        | 40,000 | 40.0%      | 210,000,000 | 40.0%       |
+| 2025-09-11      | Transactions | Merchant     | Walmart       | 60,000 | 60.0%      | 315,000,000 | 60.0%       |
+| 2025-09-11      | Transactions | CardProduct  | Gold          | 50,000 | 50.0%      | 262,500,000 | 50.0%       |
+| 2025-09-11      | Transactions | CardProduct  | Silver        | 25,000 | 25.0%      | 131,250,000 | 25.0%       |
+| 2025-09-11      | Transactions | CardProduct  | Platinum      | 25,000 | 25.0%      | 131,250,000 | 25.0%       |
